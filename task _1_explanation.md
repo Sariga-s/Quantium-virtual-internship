@@ -7,7 +7,6 @@ Three tasks were assigned for this program. In task 1, the key areas of focus wa
 ## Two data sets were given
 1. Transaction data
 2. Customer data 
-3. 
 Given below are the key areas of focus.
 
 Examine transaction data 
