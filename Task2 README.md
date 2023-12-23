@@ -6,3 +6,9 @@
 #### 1. total sales revenue
 #### 2.total number of customers
 #### 3.average number of transactions per customer
+
+##### Three main areas of focus
+##### 1. Selection of the store
+##### 2. Comparing or assessment part
+##### 3. Summarize and give recommendations
+
